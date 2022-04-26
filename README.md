@@ -1,2 +1,2 @@
-# gitftednft.github.io
+# gitftednft.github.io 
 GiftedNFT public page.
